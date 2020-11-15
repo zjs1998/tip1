@@ -4,7 +4,7 @@ tip1 is a tip calculator application for iOS.
 
 Submitted by: Jingsheng Zhang
 
-Time spent: **X** hours spent in total
+Time spent: 2 hours spent in total
 
 ## User Stories
 
